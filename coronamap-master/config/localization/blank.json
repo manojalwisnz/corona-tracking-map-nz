@@ -1,0 +1,86 @@
+{
+  "buttons": {
+    "update": "",
+    "forgotPassword": "",
+    "reset": "",
+    "signin": "",
+    "signup": "",
+    "signout": ""
+  },
+  "dropdowns": {
+    "selectPlaceholder": ""
+  },  
+  "alerts": {
+    "signout": {
+      "title": "",
+      "description": "",
+      "option1": "",
+      "cancel": ""
+    }
+  },
+  "headers": {
+    "signin": "",
+    "signup": "",
+    "form": "",
+    "resetPassword": "",
+    "account": "",
+    "profile": "",
+    "updatePassword": ""
+  },
+  "inputs": {
+    "email": "",
+    "enterEmailPlaceholder": "",
+    "password": "",
+    "enterPasswordPlaceholder": "",
+    "newPasswordPlaceholder": "",
+    "confirmPasswordPlaceholder": ""
+  },
+  "screens": {
+    "account": {
+      "profile": "",
+      "updatePassword": ""
+    },
+    "map": {
+      "loadingMessage": "",
+      "clusterDetailsTitle": "",
+      "userTestedPositive": "",
+      "userShowingSymptoms": "",
+      "testedPositive": "",
+      "showingSymptoms": "",
+      "chooseWellbeingTitle": "",
+      "chooseWellbeingMessage": ""
+    }
+  },
+  "form": {
+    "topNote": "",
+    "wellbeing": "",
+    "important": "",
+    "note": "",
+    "options": {
+      "well": {
+        "label": "",
+        "description": "",
+        "important": "",
+        "note": ""
+      },
+      "symptoms": {
+        "label": "",
+        "description": "",
+        "important": "",
+        "note": ""
+      },
+      "negative": {
+        "label": "",
+        "description": "",
+        "important": "",
+        "note": ""
+      },
+      "positive": {
+        "label": "",
+        "description": "",
+        "important": "",
+        "note": ""
+      }
+    }
+  }
+}
