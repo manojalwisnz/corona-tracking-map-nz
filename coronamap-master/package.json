@@ -15,7 +15,7 @@
     "@sentry/node": "^5.12.3",
     "@types/i18n-js": "^3.0.1",
     "@types/react-redux": "^7.1.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "expo": "~36.0.0",
     "expo-blur": "~8.0.0",
